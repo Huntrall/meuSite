@@ -1,0 +1,21 @@
+@charset "utf-8"; /* exemplo de comentário */
+
+h1{
+
+    font-family: fantasy; /* estilo da fonte */
+    text-align: center; /* alinhar o texto no centro */
+    background-color: #d41214;
+}
+
+body{
+
+    margin: 0;
+    font-size: 1em;
+    background-color: #1789fc;
+}
+
+h2{
+
+    font-family: fantasy; /* estilo da fonte */
+    text-align: center; /* alinhar o texto no centro */
+}
